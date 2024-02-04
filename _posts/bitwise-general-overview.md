@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bitwise Operations - Overview
+title: bitwise-general-overview
 ---
 
 # Bitwise Operations - Overview
