@@ -3,4 +3,4 @@ layout: default
 title: bitwise-general-overview
 ---
 
-# Bitwise Operations - Overview
+# Bitwise Operators - Overview
