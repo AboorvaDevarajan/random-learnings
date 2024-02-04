@@ -4,4 +4,4 @@ One space to cature my daily learnings in an organized ('trying-to-be-organized'
 
 ## Bit-wise operations 
 
-- [Bit-wise operations - General Overview]({% post_url bitwise-general-overview %})
+- [Bit-wise operators - General Overview]({% post_url bitwise-general-overview %})
