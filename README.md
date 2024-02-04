@@ -1,1 +1,1 @@
-# random-learnings.github.io
+# random-learnings
